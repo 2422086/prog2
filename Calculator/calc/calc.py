@@ -216,6 +216,7 @@ class CalculatorApp(ft.Container):
 
 
 
+
 def main(page: ft.Page):
     page.title = "Calc App"
     calc = CalculatorApp()
